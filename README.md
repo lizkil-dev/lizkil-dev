@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Lisa</h1>
-<h3 align="center">A software developer based in Germany and Finland.</h3>
+<h3 align="center">A software developer based in Germany and Finland</h3>
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
